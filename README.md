@@ -34,6 +34,12 @@ cd Movie-Trailer-Website
 python entertainment_center.py
 ```
 
+## How to Use it in IDE
+
+1.Open the project in IDE
+
+2.Choose entertainment_center.py and click 'Run'
+
 ## Tips
 * You can modify the movie instances in entertainment_center.py to anyone you like
 * Html content is for you to beautify in fresh_tomatoes.py
